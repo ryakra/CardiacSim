@@ -1,5 +1,3 @@
-Okay, here are the instructions for a programmer to develop the Advanced EKG Simulation Script, based on the design blueprint provided:
-
 **I. Project Overview**
 
 *   **Primary Goal:** Develop a Python-based script to simulate advanced EKG (Electrocardiogram) waveforms. The simulation must be dynamic, primarily focusing on scenarios a combat medic would encounter.
